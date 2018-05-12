@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Captain-Horn_12190
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stockton, Frank Richard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
 description: 'Sequel: Mrs. Cliff''s Yacht, #30848.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12190#The-Adventures-of-Captain-Horn
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
